@@ -1,0 +1,295 @@
+{
+  "light": {
+    "lighting": "devices_icon_lighting1_s.svg",
+    "lighting2": "devices_icon_lighting2_s.svg",
+    "lighting3": "devices_icon_lighting3_s.svg",
+    "lighting4": "devices_icon_lighting4_s.svg",
+    "lighting9": "devices_icon_lighting9_s.svg"
+  },
+  "Light_ColorTemperature": {
+    "lighting": "devices_icon_lighting1_s.svg",
+    "lighting2": "devices_icon_lighting2_s.svg",
+    "lighting3": "devices_icon_lighting3_s.svg",
+    "lighting4": "devices_icon_lighting4_s.svg",
+    "lighting9": "devices_icon_lighting9_s.svg"
+  },
+  "Light_ColourTemperature": {
+    "lighting": "devices_icon_lighting1_s.svg",
+    "lighting2": "devices_icon_lighting2_s.svg",
+    "lighting3": "devices_icon_lighting3_s.svg",
+    "lighting4": "devices_icon_lighting4_s.svg",
+    "lighting9": "devices_icon_lighting9_s.svg"
+  },
+  "Light_Dimmable": {
+    "lighting": "devices_icon_lighting1_s.svg",
+    "lighting2": "devices_icon_lighting2_s.svg",
+    "lighting3": "devices_icon_lighting3_s.svg",
+    "lighting4": "devices_icon_lighting4_s.svg",
+    "lighting9": "devices_icon_lighting9_s.svg"
+  },
+  "Light_RGBW": {
+    "lighting": "devices_icon_lighting1_s.svg",
+    "lighting2": "devices_icon_lighting2_s.svg",
+    "lighting3": "devices_icon_lighting3_s.svg",
+    "lighting4": "devices_icon_lighting4_s.svg",
+    "lighting9": "devices_icon_lighting9_s.svg"
+  },
+  "Light_ColorTemperature_Scene": {
+    "lighting": "devices_icon_lighting1_s.svg",
+    "lighting2": "devices_icon_lighting2_s.svg",
+    "lighting3": "devices_icon_lighting3_s.svg",
+    "lighting4": "devices_icon_lighting4_s.svg",
+    "lighting9": "devices_icon_lighting9_s.svg"
+  },
+  "Light_Dimmable_Scene": {
+    "lighting": "devices_icon_lighting1_s.svg",
+    "lighting2": "devices_icon_lighting2_s.svg",
+    "lighting3": "devices_icon_lighting3_s.svg",
+    "lighting4": "devices_icon_lighting4_s.svg",
+    "lighting9": "devices_icon_lighting9_s.svg"
+  },
+  "Light_RGBW_Scene": {
+    "lighting": "devices_icon_lighting1_s.svg",
+    "lighting2": "devices_icon_lighting2_s.svg",
+    "lighting3": "devices_icon_lighting3_s.svg",
+    "lighting4": "devices_icon_lighting4_s.svg",
+    "lighting9": "devices_icon_lighting9_s.svg"
+  },
+  "Light_ColorTemperature_Wifi": {
+    "lighting": "devices_icon_lighting1_s.svg",
+    "lighting2": "devices_icon_lighting2_s.svg",
+    "lighting3": "devices_icon_lighting3_s.svg",
+    "lighting4": "devices_icon_lighting4_s.svg",
+    "lighting9": "devices_icon_lighting9_s.svg"
+  },
+  "Light_Dimmable_Wifi": {
+    "lighting": "devices_icon_lighting1_s.svg",
+    "lighting2": "devices_icon_lighting2_s.svg",
+    "lighting3": "devices_icon_lighting3_s.svg",
+    "lighting4": "devices_icon_lighting4_s.svg",
+    "lighting9": "devices_icon_lighting9_s.svg"
+  },
+  "Light_RGBW_Wifi": {
+    "lighting": "devices_icon_lighting1_s.svg",
+    "lighting2": "devices_icon_lighting2_s.svg",
+    "lighting3": "devices_icon_lighting3_s.svg",
+    "lighting4": "devices_icon_lighting4_s.svg",
+    "lighting9": "devices_icon_lighting9_s.svg"
+  },
+  "Sensor_PIR": {
+    "motion": "devices_icon_motion2_s.svg",
+    "motion2": "devices_icon_motion1_s.svg",
+    "motion3": "devices_icon_motion3_s.svg"
+  },
+  "Sensor_Motion": {
+    "motion": "devices_icon_motion2_s.svg",
+    "motion2": "devices_icon_motion1_s.svg",
+    "motion3": "devices_icon_motion3_s.svg"
+  },
+  "magnet": {
+    "door_lock": "devices_icon_door_lock2_s.svg",
+    "door_lock2": "devices_icon_door_lock1_s.svg",
+    "door_lock3": "devices_icon_door_lock3_s.svg"
+  },
+  "Sensor_Doorlock": {
+    "door_lock": "devices_icon_door_lock2_s.svg",
+    "door_lock2": "devices_icon_door_lock1_s.svg",
+    "door_lock3": "devices_icon_door_lock3_s.svg"
+  },
+  "Doorlock_Bypass": {
+    "door_lock": "devices_icon_door_lock2_s.svg",
+    "door_lock2": "devices_icon_door_lock1_s.svg",
+    "door_lock3": "devices_icon_door_lock3_s.svg"
+  },
+  "keypad": {
+    "keypad": "devices_icon_keypad2_s.svg",
+    "keypad2": "devices_icon_keypad1_s.svg",
+    "keypad3": "devices_icon_keypad3_s.svg"
+  },
+  "Keypad": {
+    "keypad": "devices_icon_keypad2_s.svg",
+    "keypad2": "devices_icon_keypad1_s.svg",
+    "keypad3": "devices_icon_keypad3_s.svg"
+  },
+  "keyfob": {
+    "keyfob": "devices_icon_keypad2_s.svg",
+    "keyfob2": "devices_icon_keypad1_s.svg",
+    "keyfob3": "devices_icon_keypad3_s.svg"
+  },
+  "Keyfob": {
+    "keyfob": "devices_icon_keypad2_s.svg",
+    "keyfob2": "devices_icon_keypad1_s.svg",
+    "keyfob3": "devices_icon_keypad3_s.svg"
+  },
+  "Keyfod": {
+    "keyfob": "devices_icon_keypad2_s.svg",
+    "keyfob2": "devices_icon_keypad1_s.svg",
+    "keyfob3": "devices_icon_keypad3_s.svg"
+  },
+  "Multi_Gateway": {
+    "gateway": "devices_icon_gateway2_s.svg",
+    "gateway2": "devices_icon_gateway1_s.svg",
+    "gateway3": "devices_icon_gateway3_s.svg",
+    "gateway4": "devices_icon_gateway4_s.svg"
+  },
+  "SirenHub": {
+    "gateway": "devices_icon_gateway2_s.svg",
+    "gateway2": "devices_icon_gateway1_s.svg",
+    "gateway3": "devices_icon_gateway3_s.svg",
+    "gateway4": "devices_icon_gateway4_s.svg"
+  },
+  "Siren_Hub": {
+    "gateway": "devices_icon_gateway2_s.svg",
+    "gateway2": "devices_icon_gateway1_s.svg",
+    "gateway3": "devices_icon_gateway3_s.svg",
+    "gateway4": "devices_icon_gateway4_s.svg"
+  },
+  "siren": {
+    "gateway": "devices_icon_gateway2_s.svg",
+    "gateway2": "devices_icon_gateway1_s.svg",
+    "gateway3": "devices_icon_gateway3_s.svg",
+    "gateway4": "devices_icon_gateway4_s.svg"
+  },
+  "wifi_plug": {
+    "plug": "devices_icon_plug1_s.svg",
+    "plug2": "devices_icon_plug2_s.svg",
+    "plug3": "devices_icon_plug3_s.svg",
+    "plug4": "devices_icon_plug4_s.svg"
+  },
+  "Smartplug_Meter": {
+    "plug": "devices_icon_plug1_s.svg",
+    "plug2": "devices_icon_plug2_s.svg",
+    "plug3": "devices_icon_plug3_s.svg",
+    "plug4": "devices_icon_plug4_s.svg"
+  },
+  "WiFi_Plug_OnOff": {
+    "plug": "devices_icon_plug1_s.svg",
+    "plug2": "devices_icon_plug2_s.svg",
+    "plug3": "devices_icon_plug3_s.svg",
+    "plug4": "devices_icon_plug4_s.svg"
+  },
+  "Smartplug": {
+    "plug": "devices_icon_plug1_s.svg",
+    "plug2": "devices_icon_plug2_s.svg",
+    "plug3": "devices_icon_plug3_s.svg",
+    "plug4": "devices_icon_plug4_s.svg"
+  },
+  "plug": {
+    "plug": "devices_icon_plug1_s.svg",
+    "plug2": "devices_icon_plug2_s.svg",
+    "plug3": "devices_icon_plug3_s.svg",
+    "plug4": "devices_icon_plug4_s.svg"
+  },
+  "remote": {
+    "remote": "devices_icon_remote1_s.svg",
+    "remote2": "devices_icon_remote2_s.svg",
+    "remote3": "devices_icon_remote3_s.svg"
+  },
+  "schneider_remote": {
+    "remote": "devices_icon_remote1_s.svg",
+    "remote2": "devices_icon_remote2_s.svg",
+    "remote3": "devices_icon_remote3_s.svg"
+  },
+  "Remote": {
+    "remote": "devices_icon_remote1_s.svg",
+    "remote2": "devices_icon_remote2_s.svg",
+    "remote3": "devices_icon_remote3_s.svg"
+  },
+  "Remote_Group1": {
+    "remote": "devices_icon_remote1_s.svg",
+    "remote2": "devices_icon_remote2_s.svg",
+    "remote3": "devices_icon_remote3_s.svg"
+  },
+  "Remote_Group4": {
+    "rgbw_remote": "devices_icon_zb_rgbw_remote_s.svg"
+  },
+  "Sensor_Waterleak": {
+    "flood": "devices_icon_water_leak1_s.svg",
+    "flood2": "devices_icon_water_leak1_s.svg",
+    "flood3": "devices_icon_water_leak1_s.svg"
+  },
+  "Sensor_Waterleak_NT": {
+    "flood": "devices_icon_water_leak1_s.svg",
+    "flood2": "devices_icon_water_leak1_s.svg",
+    "flood3": "devices_icon_water_leak1_s.svg"
+  },
+  "water_leak": {
+    "flood": "devices_icon_water_leak1_s.svg",
+    "flood2": "devices_icon_water_leak1_s.svg",
+    "flood3": "devices_icon_water_leak1_s.svg"
+  },
+  "Sensor_Mulitlevel": {
+    "multidevice": "devices_icon_motion4_s.svg",
+    "multidevice2": "devices_icon_motion2_s.svg",
+    "multidevice3": "devices_icon_motion3_s.svg"
+  },
+  "curtain": {
+    "curtain": "devices_icon_curtain1_s.svg",
+    "curtain2": "devices_icon_curtain2_s.svg",
+    "curtain3": "devices_icon_curtain3_s.svg"
+  },
+  "curtian": {
+    "curtain": "devices_icon_curtain1_s.svg",
+    "curtain2": "devices_icon_curtain2_s.svg",
+    "curtain3": "devices_icon_curtain3_s.svg"
+  },
+  "Sensor_Smoke": {
+    "sensor_smoke": "devices_icon_smoke2_s.svg",
+    "sensor_smoke2": "devices_icon1_smoke1_s.svg",
+    "sensor_smoke3": "devices_icon_smoke3_s.svg"
+  },
+  "sensor_smoke": {
+    "sensor_smoke": "devices_icon_smoke2_s.svg",
+    "sensor_smoke2": "devices_icon1_smoke1_s.svg",
+    "sensor_smoke3": "devices_icon_smoke3_s.svg"
+  },
+  "Sensor_Motion_Pet": {
+    "sensor_motion_pet": "devices_icon_pet_sensor_s.svg"
+  },
+  "Air_Purifier": {
+    "air": "devices_icon_air_cleaner_s.svg"
+  },
+  "sensor_ht": {
+    "t_h_sensor": "devices_icon_zb_t_h_sensor_s.svg"
+  },
+  "Freelocate_4key": {
+    "freelocate": "devices_icon_zb_dimmer_switch_4_key_freelocate_s.svg"
+  },
+  "Freelocate_2key": {
+    "freelocate": "devices_icon_zb_dimmer_switch_4_key_freelocate_s.svg"
+  },
+  "Light_Dimmable_CRSensor": {
+    "embedded": "devices_icon_zb_embedded_sensor_s.svg"
+  },
+  "Smart_Lock": {
+    "smart_lock": "devices_icon_zb_door_lock_na_s.svg"
+  },
+  "room": {
+    "balcony": "room_icon_balcony.svg",
+    "basement": "room_icon_basement.svg",
+    "bedroom": "room_icon_bedroom.svg",
+    "bedroom2": "room_icon_bedroom2.svg",
+    "bedroom3": "room_icon_bedroom3.svg",
+    "bathroom2": "room_icon_bathroom2.svg",
+    "diningroom": "room_icon_dinning_room.svg",
+    "diningroom2": "room_icon_ dinning_room2.svg",
+    "kitchen": "room_icon_ kitchen.svg",
+    "living-room": "room_icon_living_room.svg",
+    "outside": "room_icon_outside.svg",
+    "study": "room_icon_study.svg",
+    "study2": "room_icon_study2.svg",
+    "fault": "room_icon_fault.svg"
+  },
+  "scene": {
+      "at_home": "scene_icon_at_home_white.svg",
+      "go_away": "scene_icon_go_away_white.svg",
+      "good_morning": "scene_icon_good_morning_white.svg",
+      "good_morning2": "scene_icon_good_morning2_white.svg",
+      "good_night": "scene_icon_good_night_white.svg",
+      "good_night2": "scene_icon_good_night2_white.svg",
+      "watch_movie": "scene_icon_watch_movie_white.svg",
+      "movie2": "scene_icon_movie2_white.svg",
+      "reading_book": "scene_icon_reading_book_white.svg",
+      "reading_book2":"scene_icon_reading_book2_white.svg"
+  }
+}
